@@ -49,23 +49,6 @@ Data are subject to restricted access. Users must obtain data directly from the 
    - Subdistribution proportional hazards models (Fine–Gray competing risks)
 
 ## Repository Structure
-# These code are based on the publicly avaliable HRS data and the data is not included in the Repository
-despair-mortality-inequalities/
-│
-├── code/                     # All R scripts (see detailed summaries below)
-│   ├── 01_setup_and_load.R
-│   ├── 02_merge_and_select_vars.R
-│   ├── 03_rename_and_cohort_age_entry.R
-│   ├── 04_construct_pain_channel.R
-│   ├── 05_construct_cesd_channel.R
-│   ├── 06_combine_channels_and_build_sequences.R
-│   ├── 07_sequence_clustering.R
-│   ├── 08_attach_clusters_and_prep_competing_risk_data.R
-│   ├── 09_build_ipw_left_truncation.R
-│   ├── 10_cif_and_competing_risk_models.R
-│   ├── 11_visualizations_and_decompositions.R
-│   └── 12_cox_hazard_and_stratified_analyses_and_descriptives.R
-└── README.md
 
 01_setup_and_load.R
 
