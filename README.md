@@ -200,5 +200,7 @@ If you use or refer to this repository, please cite as:
 ## Contact
 For questions or collaboration inquiries, please contact:  
 **[Haohao Lei]**  
-Nuffield College, Oxford
-Email: [haohao.lei@nuffield.ox.ac.uk]
+
+**Nuffield College, Oxford**
+
+**Email**: [haohao.lei@nuffield.ox.ac.uk]
