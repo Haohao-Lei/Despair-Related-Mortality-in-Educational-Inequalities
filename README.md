@@ -49,11 +49,12 @@ Data are subject to restricted access. Users must obtain data directly from the 
    - Subdistribution proportional hazards models (Fine–Gray competing risks)
   
 ## Results
-<img width="440" height="227" alt="image" src="https://github.com/user-attachments/assets/5d52ae43-d633-4d38-b4d1-65de93f2fc7e" />
+<img width="1099" height="561" alt="image" src="https://github.com/user-attachments/assets/1b382fe2-9225-4eb0-bb86-ae27cdcc2318" />
 
-<img width="450" height="194" alt="image" src="https://github.com/user-attachments/assets/c9940a27-62d5-495c-891c-ae2a2681a816" />
+<img width="1120" height="633" alt="image" src="https://github.com/user-attachments/assets/fbdb0a87-299b-4c78-8ca9-b3fb96d609a8" />
 
-<img width="445" height="248" alt="image" src="https://github.com/user-attachments/assets/84ee3bf4-6941-404d-964f-3e5afeaaacad" />
+<img width="1134" height="475" alt="image" src="https://github.com/user-attachments/assets/66546781-3f63-47b7-9668-6ac7e595e032" />
+
 
 ## Repository Structure
 
