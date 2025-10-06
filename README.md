@@ -199,7 +199,8 @@ If you use or refer to this repository, please cite as:
 
 ## Contact
 For questions or collaboration inquiries, please contact:  
-**[Haohao Lei]**  
+
+**Haohao Lei**  
 
 **Nuffield College, Oxford**
 
