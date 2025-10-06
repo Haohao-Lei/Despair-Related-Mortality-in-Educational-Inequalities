@@ -196,7 +196,7 @@ source("code/12_cox_hazard_and_stratified_analyses_and_descriptives.R")
 ## Citation
 If you use or refer to this repository, please cite as:
 
-> Haohao Lei (2025). *The Role of Despair-Related Mortality in Educational Inequalities in U.S. Mortality: Insights from a Sequence Analysis-Based Measure.* [GitHub Repository]. https://github.com/[your-username]/despair-mortality-inequalities
+> Haohao Lei (2025). *The Role of Despair-Related Mortality in Educational Inequalities in U.S. Mortality: Insights from a Sequence Analysis-Based Measure.* [GitHub Repository]. https://github.com/Haohao-Lei/Despair-Related-Mortality-in-Educational-Inequalities
 
 ## Contact
 For questions or collaboration inquiries, please contact:  
