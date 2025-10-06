@@ -11,8 +11,9 @@ This study is currently a working paper. The materials and results presented her
 Please do not directly use, redistribute, or cite this repository or its outputs without the author’s explicit permission.**
 
 Data note:
-The project relies on restricted-access data from the Health and Retirement Study (HRS) and the RAND Harmonized HRS (1993–2020).
+The project relies on data from the Health and Retirement Study (HRS) and the RAND Harmonized HRS (1993–2020).
 These data cannot be redistributed. Users must request them directly from the HRS repository and comply with all data-use agreements.
+
 ## Abstract
 Recent declines in U.S. life expectancy and the rise in midlife mortality have been widely interpreted through the "deaths of despair" framework. A key limitation of existing research is its reliance on cause-specific mortality as a proxy for despair, without evidence that individuals were in despair prior to death.  
 This study introduces a **sequence analysis-based measure** that reconstructs individuals’ despair states during the ten years before death using longitudinal data from the U.S. Health and Retirement Study (HRS). The method identifies distinct despair trajectories and examines educational differences in their incidence through competing risks models.  
