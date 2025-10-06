@@ -161,16 +161,27 @@ Outputs: Stratified hazard models, descriptive tables (Table 1, Table 2), and su
 
 ## Run all scripts sequentially:
 source("code/01_setup_and_load.R")
+
 source("code/02_merge_and_select_vars.R")
+
 source("code/03_rename_and_cohort_age_entry.R")
+
 source("code/04_construct_pain_channel.R")
+
 source("code/05_construct_cesd_channel.R")
+
 source("code/06_combine_channels_and_build_sequences.R")
+
 source("code/07_sequence_clustering.R")
+
 source("code/08_attach_clusters_and_prep_competing_risk_data.R")
+
 source("code/09_build_ipw_left_truncation.R")
+
 source("code/10_cif_and_competing_risk_models.R")
+
 source("code/11_visualizations_and_decompositions.R")
+
 source("code/12_cox_hazard_and_stratified_analyses_and_descriptives.R")
 
 ## Citation
